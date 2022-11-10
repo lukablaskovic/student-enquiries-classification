@@ -1,2 +1,2 @@
-# student-enquiries-clustering
-NLP application for clustering student enquiries in predefined classes
+# student-enquiries-classification
+NLP application for classifying student enquiries in predefined classes
