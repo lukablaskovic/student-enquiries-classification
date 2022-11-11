@@ -1,7 +1,6 @@
 from aiohttp import web
-import aiohttp
 import asyncio
-import json
+import aiohttp_cors
 
 routes = web.RouteTableDef()
 
@@ -21,8 +20,20 @@ async def classify(request):
     
     
 app = web.Application()
-
 app.router.add_routes(routes)
+
+#Cors policy set up
+cors = aiohttp_cors.setup(app, defaults={
+    "*": aiohttp_cors.ResourceOptions(
+        allow_credentials=True,
+        expose_headers="*",
+        allow_headers="*"
+    )
+})
+for route in list(app.router.routes()):
+    cors.add(route)
+
+
 
 if __name__ == '__main__':
     web.run_app(app)
