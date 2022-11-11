@@ -4,6 +4,7 @@ import aiohttp_cors
 
 routes = web.RouteTableDef()
 
+from classificator import topicClassifier
 
 @routes.get("/")
 async def get_handler(request):
@@ -13,8 +14,9 @@ async def get_handler(request):
 async def classify(request):
     try:
         inquiry = await request.json()
-        print(inquiry)
-        return web.json_response({"status" : "OK"}, status=200)
+        response = await topicClassifier(inquiry["text"])
+        print(response)
+        return web.json_response(response, status=200)
     except Exception as e:
         return web.json_response({"status" : "failed", "message" : str(e)}, status=500)
     
