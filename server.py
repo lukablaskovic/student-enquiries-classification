@@ -1,14 +1,15 @@
+from classificator import topicClassifier
 from aiohttp import web
 import asyncio
 import aiohttp_cors
 
 routes = web.RouteTableDef()
 
-from classificator import topicClassifier
 
 @routes.get("/")
 async def get_handler(request):
-    return web.json_response({"status" : "OK"}, status=200)
+    return web.json_response({"status": "OK"}, status=200)
+
 
 @routes.post("/classificator")
 async def classify(request):
@@ -18,13 +19,13 @@ async def classify(request):
         print(response)
         return web.json_response(response, status=200)
     except Exception as e:
-        return web.json_response({"status" : "failed", "message" : str(e)}, status=500)
-    
-    
+        return web.json_response({"status": "failed", "message": str(e)}, status=500)
+
+
 app = web.Application()
 app.router.add_routes(routes)
 
-#Cors policy set up
+# Cors policy set up
 cors = aiohttp_cors.setup(app, defaults={
     "*": aiohttp_cors.ResourceOptions(
         allow_credentials=True,
@@ -34,7 +35,6 @@ cors = aiohttp_cors.setup(app, defaults={
 })
 for route in list(app.router.routes()):
     cors.add(route)
-
 
 
 if __name__ == '__main__':
