@@ -15,7 +15,7 @@ async def get_handler(request):
 async def classify(request):
     try:
         inquiry = await request.json()
-        response = await topicClassifier(inquiry["text"])
+        response = topicClassifier(inquiry["text"])
         print(response)
         return web.json_response(response, status=200)
     except Exception as e:
