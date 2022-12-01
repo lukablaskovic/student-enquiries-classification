@@ -1,20 +1,22 @@
 import spacy
-import classy_classification
-from spacy import displacy
+import classy_classification as cc
 
 import json
 
-f = open("data.json")
+f = open("topics-enquiries.json")
 data = json.load(f)
 
 
 nlp = spacy.load("hr_core_news_lg")
 # Install package with !python3 -m spacy download hr_core_news_lg
 
+# Sentence Transformers model - MiniLM - L12-v2
+# https://www.sbert.net/
 nlp.add_pipe("text_categorizer",
              config={
                  "data": data,
-                 "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+                 "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+                 "device": "gpu",
              }
              )
 

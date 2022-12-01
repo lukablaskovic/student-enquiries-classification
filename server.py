@@ -1,4 +1,4 @@
-from classificator import topicClassifier
+from text_categorizer import topicClassifier
 from aiohttp import web
 import asyncio
 import aiohttp_cors

@@ -3,34 +3,26 @@
     "Koja je procedura za upis na višu godinu?",
     "Htio bih upisati drugu godinu studija, no moram prebaciti 1 predmet. Koja je procedura?",
     "Kako da upišem drugu godinu informatike ako nisam položio 2 predmeta.",
-
     "Šaljem upit jer me zanima mogu li upisati drugu godinu ekonomije sa 3 nepoložena predmeta",
     "Zanima me koja je procedura upisa na treću godinu fakulteta, ako nisam položio 1 predmet",
-
     "zanima me koja je procedura upisa u višu godinu na drugom jesenskom roku?",
     "koliko košta upis u više godine fakulteta za izvanredne studente?",
-    ",zanima me mogu li treću godinu upisati kao izvanredan student",
-
-    "Zanima me kada poćinju upisi u više godine studija?",
+    "mogu li treću godinu upisati kao izvanredan student",
     "Student sam koji završava 1 godinu studija? Koja je procedura upisa na drugu godinu?",
     "Koliko iznosi upisnina za drugu godinu studija?",
     "Mogu li prebaciti više od 3 predmeta na sljedeću godinu?",
     "Što upisujem kad upisujem višu (čistu) godinu",
-    "Što znači parijacala",
-    "Koliko plaćam ako sam redovan student, a upisujem višu godinu ili ponavljanje godine?",
-
-    "Koliko plaćam ako upisujem „apsolventsku“ godinu?"
+    "Što znači parijacala"
   ],
   "placanje": [
     "zanima me koliko iznosi 1 ECTS bod na fakultetu ekonomije i turizma",
     "Koliko će me koštati prebačaj 2 predmeta od 6 ECTS bodova na informatici?",
     "Student sam 2. godine i moram nadoplatiti 2 predmeta. Gdje mogu nabaviti uplatnice",
     "Htio bih upisati višu godinu studija međutim moram prebaciti 1 predmet od 6 ECTS bodova. Obzirom da je prebačaj 4 ECTS-a besplatan, plaćam li 2 ili svih 6",
-
     "Zanima me koji je zadnji rok za plaćanje upisnine u više godine studija",
     "Treba li platiti upisninu za upis na višu godinu studija?",
     "Završavam preddiplomski studij te me zanima koji su mi troškovi?",
-    "završavam diplomski studij informatike u Puli. Gdje mogu nabaviti uplatnicu za ispisninu?"
+    "završavam diplomski studij informatike u Puli. Gdje mogu dobiti uplatnicu za ispisninu?"
   ],
   "ispitni-rok": [
     "Zanima me hoće li se ove godine održavati dekanski rok na fakultetu informatike u Puli",
@@ -56,5 +48,11 @@
     "Kome se možemo obratiti za pitanja vezana uz organizaciju nastave i ispita?",
     "Pozdrav, gdje se nalazi studentski centar?"
   ],
-  "zavrsni-rad": []
+  "zavrsni-rad": [
+    "koja je procedura prijave završnog rada?",
+    "gdje mogu pronaći teme završnih radova od prošle godine",
+    "kako da zapoćnem proceduru obrane završnog rada",
+    "napisao sam završni rad. što mi je dalje činiti?",
+    "kod kojih profesora mogu izraditi završni rad na fakultetu?"
+  ]
 }
