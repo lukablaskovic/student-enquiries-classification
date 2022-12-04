@@ -21,6 +21,7 @@ async def classify(request):
     except Exception as e:
         return web.json_response({"status": "failed", "message": str(e)}, status=500)
 
+
 app = web.Application()
 app.router.add_routes(routes)
 
