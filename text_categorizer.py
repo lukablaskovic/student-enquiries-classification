@@ -7,7 +7,7 @@ f = open("topics-enquiries.json")
 data = json.load(f)
 
 
-nlp = spacy.load("hr_core_news_lg")
+nlp = spacy.blank("hr")
 # Install package with !python3 -m spacy download hr_core_news_lg
 
 # Sentence Transformers model - MiniLM - L12-v2
