@@ -9,7 +9,7 @@ from sentence_transformers.util import semantic_search
 from topic_classifier import getStrongestTopics
 
 #Load data from JSON
-f = open("enquiries2.json", 'r', encoding="utf8")
+f = open("enquiriesTEST.json", 'r', encoding="utf8")
 data = json.load(f)
 
 #Sentence Transformers model - an existing pre-trained model for creating the embeddings.
@@ -27,10 +27,11 @@ def generateEmbeddings(texts):
 
 #Extract questions from question: answer data pairs
 questions_data = [pair["question"] for pair in data]
-print("questions_data>>>>>>>>>>", questions_data)
+#print("questions_data>>>>>>>>>>", questions_data)
 #Generate embeddings and export them to csv file
 model_output = generateEmbeddings(questions_data)
 embeddings = pd.DataFrame(model_output)
+
 embeddings.to_csv("embeddings/enquiries.csv", index=False)
 
 
