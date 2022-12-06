@@ -1,0 +1,157 @@
+[
+  {
+    "question": "Koja je procedura za upis na višu godinu?",
+    "answer": "Potrebno je nakon polaganja svih kolegija upis provesti preko Studomata."
+  },
+  {
+    "question": "Mogu li prebaciti smjer?",
+    "answer": "Smjer možete prebaciti prilikom upisa u višu godinu, uz polaganje razlikovnih predmeta."
+  },
+  {
+    "question": "Mogu li se prebaciti s redovnog na izvanredni studij?",
+    "answer": "S redovnog na izvanredni studij možete se prebaciti prilikom upisa više godine. U tom slučaju potrebno je podmiriti troškove izvanrednog studija."
+  },
+  {
+    "question": "Koji je maksimalni broj ECTS bodova koji mogu prebaciti na višu godinu?",
+    "answer": "Maksimalni broj ECTS bodova koji se može prebaciti je 18. U suprotnom, potrebno je ponavljati godinu."
+  },
+  {
+    "question": "Kako da upišem višu godinu ako nisam položio predmete?",
+    "answer": "Višu godinu preddiplomskog studija moguće je upisati ako pritom nisu položeni predmeti s maksimalnim zbrojem ECTS bodova od 18."
+  },
+  {
+    "question": "Što znači parcijala",
+    "answer": "To znači da ste ponavljač godine i imate pravo na dopis predmeta iz više godine"
+  },
+  {
+    "question": "Koji diplomski studij mogu upisati?",
+    "answer": "Sveučilište propisuje koji se završeni preddiplomski studiji smatraju odgovarajućim za upis pojedinog diplomskog studija, kao i uvjete upisa."
+  },
+  {
+    "question": "Koji su rokovi za upis sljedeće akademske godine?",
+    "answer": "Upisi u sljedeću akademsku godinu vrše se od 1. do 30. rujna. "
+  },
+  {
+    "question": "Trebam li platiti školarinu za upis više godine kao redovan student?",
+    "answer": "Redoviti studenti viših godina studija ne plaćaju školarinu ako su u akademskoj godini ostvarili 55 i više ECTS bodova i ne studiraju duže od vremena predviđenog aktima MZOS-a i Sveučilišta"
+  },
+  {
+    "question": "Koji je uvjet za upis na višu godinu?",
+    "answer": "Uvjeti za upis više godine studija propisuju se studijskim programom. U pravilu, uvjet za upis više godine studija je ostvarenih 42 ECTS boda u jednoj akademskoj godini."
+  },
+  {
+    "question": "Koji su uvjeti odabira izbornih predmeta? Do kada ih moram odabrati?",
+    "answer": "Osim ako u silabu ne postoji naveden preduvjet upisa, uvjeta nema. Izborni predmeti odabiru se pri upisu u narednu akademsku godinu (od 1. do 30. rujna)."
+  },
+  {
+    "question": "Mogu li među izbornim predmetima odabrati neki s bilo kojeg drugog studija?",
+    "answer": "Mogućnost odabira izbornih predmeta i popis predmeta koji se mogu odabrati definiraju se studijskim programom."
+  },
+  {
+    "question": "Koliko plaćam ako sam redovan student, a upisujem višu godinu ili ponavljanje godine?",
+    "answer": "Plaćanje ovisi o broju ECTS bodova koje ste stekli u prethodnoj godini. Provjerite cijene ECTS bodova ovisno o vašoj sastavnici na: https://www.unipu.hr/upisi"
+  },
+  {
+    "question": "Koliko košta 1 ECTS bod?",
+    "answer": "Vrijednost ECTS bodova za vašu sastavnicu možete pronaći na: https://www.unipu.hr/upisi"
+  },
+  {
+    "question": "Koliko će me koštati upis čiste godine?",
+    "answer": "Provjerite cijene ECTS bodova ovisno o vašoj sastavnici na: https://www.unipu.hr/upisi"
+  },
+  {
+    "question": "Završavam studij. Gdje mogu dobiti uplatnicu za ispisninu?",
+    "answer": "Uplatnicu za ispisninu i troškove promocije zatražite od Ureda za studente - ured-za-studente@unipu.hr, ili uživo na adresi - Preradovićeva 1, svakim radnim danom od 12 do 14 sati"
+  },
+  {
+    "question": "Može li se školarina i upisnina platiti u više rata?  ",
+    "answer": "Plaćanje u ratama nije dozvoljeno (osim u iznimnim slučajevima). "
+  },
+  {
+    "question": "Na koji način i gdje se vrši uplata školarine i upisnine za upis godine studija?  ",
+    "answer": "Sve uplate Sveučilištu i njegovim sastavnicama vrše se u banci ili pošti, na žiro račun Sveučilišta ili sastavnice. Podaci o bankovnim računima uvijek su navedeni u uputama za uplatu i dostupni na mrežnim stranicama. "
+  },
+  {
+    "question": "Trebam li platiti školarinu ako prvi put upisujem studij kao redovan student?",
+    "answer": "Studenti koji prvu put upisuju studij u statusu redovitog studenta ne plaćaju školarinu."
+  },
+
+  {
+    "question": "Mogu li naknadno odjaviti ispit, iako je rok na studomatu istekao?",
+    "answer": "U pravilu ne možete naknadno odjaviti/prijaviti ispit, moguće je jedino uz odobrenje predmetnog profesora"
+  },
+  {
+    "question": "Zanima me hoće li se ove godine održavati dekanski rok?",
+    "answer": "Dekanski rok u pravilu raspisuje dekan sastavnice sredinom rujna. Možete pratiti novosti na: https://www.unipu.hr/sa_sastavnica"
+  },
+  {
+    "question": "Gdje mogu dobiti uvid u ispitne rokove?",
+    "answer": "Uvid u ispitne rokove možete dobiti na studomatu: https://www.isvu.hr/studomat/"
+  },
+  {
+    "question": "Mogu li prijaviti ispitni rok, ako je istekao rok prijave?",
+    "answer": "U pravilu ne možete naknadno odjaviti/prijaviti ispit, moguće je jedino uz odobrenje predmetnog profesora"
+  },
+  {
+    "question": "Nedostaju mi ispitni rokovi na studomatu.",
+    "answer": "Molimo kontaktirajte prvo predmetnog profesora te ako se problem ne riješi kontaktirajte ured za studente"
+  },
+  {
+    "question": "Zaboravio sam odjaviti ispitni rok. Može li mi se povratiti isti?",
+    "answer": "Nažalost, to nije moguće."
+  },
+
+  {
+    "question": "Je li potrebno najaviti dolazak u referadu e-mailom ili telefonom?",
+    "answer": "Nije potrebno najaviti dolazak u ured za studente, možete doći svakim radnim danom od 12 do 14 sati na adresu Preradovićeva 1"
+  },
+  {
+    "question": "Koje je radno vrijeme studentske referade?",
+    "answer": "Svakim radnim danom od 12 do 14 sati"
+  },
+  {
+    "question": "Gdje se nalazi studentska referada",
+    "answer": "Studentska referada nalazi se na adresi Preradovićeva 1, stara zgrada FET-a"
+  },
+  {
+    "question": "Gdje se nalazi studentski restoran/menza?",
+    "answer": "Prehrana za studente koji studiraju na pulskim visokoškolskim institucijama organizirana je u restoranu, pizzeriji i kužinici u neposrednoj blizini Studentskog doma, Preradovićeva 9A i Preradovićeva 9B."
+  },
+  {
+    "question": "Gdje mogu dobiti potvrdu o statusu studenta?",
+    "answer": "Potvrdu o statusu studenta možete pronaći na studomatu: https://www.isvu.hr/studomat/"
+  },
+  {
+    "question": "Što je danas na meni-u u restoranu?",
+    "answer": "Dnevni menu možete pronaći na: https://www.scpu.hr/hr/prehrana/"
+  },
+  {
+    "question": "Htio bih se ispisati s fakulteta",
+    "answer": "Molimo predajte zahtjev uredu za studente i obrazovne programe - ured-za-studente@unipu.hr, ili uživo na adresi - Preradovićeva 1, svakim radnim danom od 12 do 14 sati"
+  },
+  {
+    "question": "Što je ubrzani studij?",
+    "answer": "Studenti koji u tekućoj godini ostvare 60 ECTS bodova mogu u sljedećoj godini upisati 30% ECTS bodova više od uobičajenoga godišnjeg opterećenja, uz uvjet da su ostvarili prosjek ocjena 4,5 ili više, odnosno 89% i više uspješnosti (ubrzani studij)."
+  },
+  {
+    "question": "Postoji li testiranje semestra?",
+    "answer": "Ne"
+  },
+  {
+    "question": "Koje studijske programe mogu upisati na Sveučilištu?",
+    "answer": "Popis svih studijskih programa nalazi se na: https://www.unipu.hr/obrazovanje/popis_svih_studijskih_programa"
+  },
+
+  {
+    "question": "Koja je procedura prijave završnog rada?",
+    "answer": "Završni rad prijavljujete tako što kontaktirate predmetnog profesora kod kojeg želite raditi rad"
+  },
+  {
+    "question": "Gdje mogu pronaći teme završnih radova?",
+    "answer": "Teme završnih i diplomskih radova možete dobiti direktnim kontaktiranjem profesora ili putem e-učenje sustava"
+  },
+  {
+    "question": "Kako da pokrenem proceduru obrane završnog rada?",
+    "answer": "Nakon što Vam je mentor prihvatio finalnu inačicu završnog rada. U dogovoru s njim pokrećete proces obrane kontaktiranjem ureda za studente i obrazovne programe"
+  }
+]

@@ -1,10 +1,10 @@
-from text_categorizer import topicClassifier
+from topic_classifier import classifier
+from semantic_search import getStrongestTopics, search
 from aiohttp import web
 import asyncio
 import aiohttp_cors
 
 routes = web.RouteTableDef()
-
 
 @routes.get("/")
 async def get_handler(request):
@@ -15,11 +15,22 @@ async def get_handler(request):
 async def classify(request):
     try:
         inquiry = await request.json()
-        response = topicClassifier(inquiry["text"])
-        print(response)
+        response = classifier(inquiry["text"])
+
         return web.json_response(response, status=200)
     except Exception as e:
-        return web.json_response({"status": "failed", "message": str(e)}, status=500)
+        return web.json_response({"status": "classificator failed", "message": str(e)}, status=500)
+    
+@routes.post("/answer")
+async def getAnswer(request):
+    try:
+        inquiry = await request.json()
+        print(inquiry["text"])
+        response = search(inquiry["text"])
+
+        return web.json_response(response, status=200)
+    except Exception as e:
+        return web.json_response({"status": "get-answer failed", "message": str(e)}, status=500)
 
 
 app = web.Application()
@@ -38,4 +49,4 @@ for route in list(app.router.routes()):
 
 
 if __name__ == '__main__':
-    web.run_app(app)
+    web.run_app(app, port=8081)
