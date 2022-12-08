@@ -1,5 +1,6 @@
 from topic_classifier import classifier
-from semantic_search import getStrongestTopics, search
+from qa_system import getPredefinedAnswer
+from semantic_search import search
 from aiohttp import web
 import asyncio
 import aiohttp_cors
@@ -31,6 +32,17 @@ async def getAnswer(request):
         return web.json_response(response, status=200)
     except Exception as e:
         return web.json_response({"status": "get-answer failed", "message": str(e)}, status=500)
+    
+@routes.post("/predefined-answer")
+async def getAnswer2(request):
+    try:
+        inquiry = await request.json()
+        response2 = await getPredefinedAnswer(inquiry["text"])
+        
+        return web.json_response(response2, status=200)
+    except Exception as e:
+        return web.json_response({"status": "get-predefined-answer failed", "message": str(e)}, status=500)
+
 
 
 app = web.Application()

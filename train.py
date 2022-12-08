@@ -5,6 +5,8 @@ from sentence_transformers import InputExample
 from sentence_transformers import losses
 from torch.utils.data import DataLoader
 
+
+
 model_id = "sentence-transformers/all-MiniLM-L6-v2"
 model = SentenceTransformer(model_id)
 

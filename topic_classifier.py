@@ -36,7 +36,3 @@ def classifier(inquiry):
     return processed_data
 #processed_data = classifier("Pozdrav, kako da upišem drugu godinu informatike? Dodatno, koja je cijena upisnine ako nisam prošao 1 predmet od 6 ECTS bodova?")
 
-def getStrongestTopics(inquiry):
-    processed_data = classifier(inquiry)
-    strongest_topics = max(processed_data, key = lambda x: x["similarity"])
-    return strongest_topics

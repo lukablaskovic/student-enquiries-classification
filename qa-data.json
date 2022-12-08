@@ -1,0 +1,254 @@
+{
+  "Potrebno je nakon polaganja svih ispita upis obaviti preko Studomata.": [
+    "Koja je procedura za upis na višu godinu",
+    "Kako da se upišem na višu godinu",
+    "Htio bih upisati drugu godinu studija",
+    "Kako da upišem sljedeću godinu studija"
+  ],
+  "Na drugi studijski smjer možete se prebaciti završetkom akademske godine. Potrebno je položiti razlikovne kolegije.": [
+    "Mogu li prebaciti studijski smjer",
+    "Kako da se prebacim na drugi smjer",
+    "Na koji način da se prebacim na drugi studijski smjer",
+    "Kako da promjenim smjer na fakultetu"
+  ],
+  "S redovnog na izvanredni studij možete se prebaciti prilikom upisa na sljedeću akademsku godinu.": [
+    "Mogu li se prebaciti s redovnog na izvanredni studij",
+    "Kako da se prebacim na vanredni studij",
+    "Je li se moguće prebaciti na izvanredni studij",
+    "Želim se prebaciti na izvanredni studij"
+  ],
+  "Uvjeti za upis više godine studija propisuju se studijskim programom. U pravilu, uvjet za upis više godine studija je ostvarenih 42 ECTS boda u jednoj akademskoj godini.": [
+    "Koliko mi treba ECTS bodova da upišem višu godinu",
+    "Koliko ECTS-a moram skupiti za upis",
+    "Koliko ECTS moram skupiti za upis na višu godinu",
+    "Koji je uvjet za upis na višu godinu",
+    "Koje uvjete imam za upis na višu godinu"
+  ],
+  "Potrebno je skupiti ostvariti više od 42 ECTS-a u tekućoj akademskoj godini. Upise vršite preko studomata te nakon toga dobivate generiranu uplatnicu ovisno o broju neostvarenih ECTS-a.": [
+    "Kako da upišem višu godinu studija ako nisam položio predmet",
+    "Kako da se upišem na drugu godinu ako nisam položio neke predmete",
+    "Nisam položio kolegij. Kako da upišem godinu",
+    "Nisam položio neke predmete, kako da sad upišem godinu",
+    "Kako da upišem fakultet ako nisam položio jedan kolegij",
+    "Mogu li upisati faks ako nisam položio kolegij"
+  ],
+  "Sveučilište propisuje koji se završeni preddiplomski studiji smatraju odgovarajućim za upis pojedinog diplomskog studija, kao i uvjete upisa. U pravilu su tu studiji iz srodnih znanstvenih područja.": [
+    "Koji diplomski studij mogu upisati",
+    "Koje diplomske imam pravo upisati",
+    "Završio sam preddiplomski studij. Koji diplomski imam pravo upisati",
+    "Koje diplomske studije mogu upisati ako sam završio preddiplomski studij"
+  ],
+  "Upisi u sljedeću akademsku godinu vrše se od 1. do 30. rujna.": [
+    "Koji su rokovi za upis sljedeće akademske godine",
+    "Kada su upisi?",
+    "Kada su upisi na fakultet",
+    "Kada se mogu upisati na fakultet",
+    "Kada mogu upisati sljedeću godinu",
+    "Koji je datum upisa na sljedeću akademsku godinu"
+  ],
+  "Školarinu je potrebno najkasnije do početka akademske godine te je potrebno dostaviti potvrdu o plaćanju u ured za studente (referada).": [
+    "Koji je rok plaćanja upisnine",
+    "Do kad moram platiti školarinu za sljedeću godinu",
+    "Do kad moram platiti uplatnicu za upis",
+    "Do kad moram platiti fakultet",
+    "Do kad moram platiti nepoložene kolegije"
+  ],
+  "Kao redovan student, oslobođeni ste plaćanja pune školarine za svaku sljedeću akademsku godinu.": [
+    "Plaća li se školarina za upis na višu godinu ako sam redovan",
+    "Trebam li platiti školarinu za upis više godine kao redovan student",
+    "Redovan sam, trebam li platiti punu školarinu za sljedeću akademsku godinu"
+  ],
+  "Izborne kolegije birati prilikom upisa na višu godinu putem Studomata.": [
+    "Kako mogu odabrati izborne predmete",
+    "Gdje da odaberem izborne kolegije",
+    "Kada biram izborne predmete",
+    "Kako mogu odabrati izborni kolegij"
+  ],
+  "Vrijednost ECTS bodova za vašu sastavnicu možete pronaći na: https://www.unipu.hr/upisi": [
+    "Koliko košta 1 ECTS bod?",
+    "Koliko moram platiti 1 ECTS?",
+    "Koliko košta jedan ects",
+    "Koliko vrijede ects bodovi",
+    "Koliko kuna košta jedan ects bod"
+  ],
+  "Nepoloženi kolegij plaćate ovisno o njegovoj težini u ECTS bodovima x cijena ECTS boda na vašoj sastavnici. Možete ju provjeriti na: https://www.unipu.hr/upisi": [
+    "Koliko moram platiti 1 kolegij",
+    "Koliko košta 1 nepoloženi predmet",
+    "Koliko košta ako nisam položio kolegij",
+    "Koja je cijena nepoloženih kolegija",
+    "Koja je cijena ako nisam položio 1 kolegij u vrijednosti od 6 ECTS-a"
+  ],
+  "Broj ECTS-a za kolegij možete provjeriti u silabu predmeta. Silabi su dostupni u odijeljku za studente na web stranici vaše sastavnice.": [
+    "Gdje mogu provjeriti koliko kolegij ima ECTS bodova",
+    "Kako mogu provjeriti koliko predmet ima ects-a",
+    "Koliko kolegij ima ects bodova",
+    "Kako da znam koliko neki predmet ima ectsa"
+  ],
+  "ECTS (European Credit Transfer and Accumulation System) je sustav prikupljanja i prenošenja bodova, a temelji se na procesu i ishodu učenja.": [
+    "Što je ECTS bod",
+    "Što su to ects bodovi",
+    "sta je ects",
+    "Šta znaći ects bod"
+  ],
+  "Potrebno je platiti 200kn troškova upisa + cijenu nepoloženih kolegija. Izvanredni studenti plaćaju punu školarinu ovisno o sastavnici definiranu na: https://www.unipu.hr/upisi": [
+    "Koliko košta upis godine",
+    "Koliko treba platiti upis na višu godinu?",
+    "Koliko moram platiti upis na sljedeću godinu?",
+    "Koliko košta upis više godine fakulteta?"
+  ],
+  "Izvanredni studenti plaćaju punu školarinu definiranu na: https://www.unipu.hr/upisi": [
+    "Koliko izvanredni studenti plaćaju godinu",
+    "Izvanredan sam student, koliko će me koštati upis",
+    "Koliko fakultet košta za izvanredne studente",
+    "Koliko moram platiti fakultet kao izvanredni student",
+    "Koliko moram platiti godinu ako sam vanredan"
+  ],
+  "Sve uplate Sveučilištu i njegovim sastavnicama vrše se u banci ili pošti, na žiro račun Sveučilišta ili sastavnice. Podaci o bankovnim računima uvijek su navedeni u uputama za uplatu i dostupni na mrežnim stranicama. ": [
+    "Na koji način se vrši uplata školarine",
+    "Gde da platim upisninu za studij",
+    "Kako da platim upisninu",
+    "Kako da platim školarinu za fakultet"
+  ],
+  "Potrebno je platiti punu školarinu.": [
+    "Drugi put upisujem faks, trebam li platiti godinu",
+    "Moram li platiti fakultet ako upisujem po drugi put",
+    "Ako 2. put upisujem fakultet, plaćam li godinu",
+    "Koliko moram platiti faks ako ne upisujem po prvi put"
+  ],
+  "U pravilu ne možete naknadno odjaviti/prijaviti ispit, moguće je jedino uz odobrenje predmetnog profesora": [
+    "Mogu li naknadno odjaviti ispit",
+    "Mogu li odjaviti ispit ako je isteko rok",
+    "Mogu li naknadno prijaviti ispit",
+    "Istekao je ispitni rok, mogu li naknadno prijaviti ispit",
+    "Zaboravio sam odjaviti ispit. Mogu li dobiti rok nazad"
+  ],
+  "Dekanski rok u pravilu raspisuje dekan sastavnice sredinom rujna. Možete pratiti novosti na: https://www.unipu.hr/sa_sastavnica": [
+    "Hoće li se održavati dekanski rok",
+    "Kada će biti dekanski rok",
+    "Hoce li biti dekanskog roka",
+    "Hoće li se ove godine održavati dekanski rok"
+  ],
+  "Ispite možete prijaviti/odjaviti preko Studomata: https://www.isvu.hr/studomat/": [
+    "Kako da prijavim ispit iz kolegija",
+    "Gdje da prijavim ispite",
+    "Kako mogu prijavit ispit",
+    "Kako da prijavim ispit iz nekog predmeta",
+    "Gdje se prijavljuju ispiti",
+    "Kako da odjavim ispit",
+    "Kako mogu odjaviti ispit",
+    "Na koji način da odjavim ispitni rok"
+  ],
+  "Uvid u ispitne rokove možete dobiti na studomatu: https://www.isvu.hr/studomat/": [
+    "Gdje mogu provjeriti kad su ispiti",
+    "Kako mogu dobiti uvid u ispitne rokove",
+    "Kako mogu saznati kada su ispiti iz nekog kolegija",
+    "Gdje da nađem kad je ispit iz predmeta"
+  ],
+  "E-učenju možete pristupiti putem poveznice: https://e-ucenje.unipu.hr/ Prijavljujete se sa svojim ISVU računom/Unipu email domenom.": [
+    "Kako da pristupim e-učenju",
+    "Gdje se nalazi e-učenje",
+    "Kako da uđem na eučenje",
+    "Kako da se pridružim na e kolegij"
+  ],
+  "Kolegije za određeni studijski program možete pronaći na stranicama vaše sastavnice pod - Studijski programi": [
+    "Gdje mogu provjeriti popis svih predmeta",
+    "Gdje da nađem popis svih kolegija",
+    "Kako mogu dobiti popis svih predmeta",
+    "Kako da provjerim koje predmete imam",
+    "Kako da provjerim predmete"
+  ],
+  "Prijava ispita omogućena je najkasnije tri dana prije termina održavanja ispita": [
+    "Koliko dana prije mogu prijavit ispit",
+    "Koji je rok za prijavu ispita",
+    "Do kad mogu prijaviti ispitni rok",
+    "Do kad moram prijaviti ispit iz nekog kolegija"
+  ],
+  "Odjava ispita omogućena je najkasnije dan prije termina održavanja ispita": [
+    "Koliko dana ranije mogu odjaviti ispit",
+    "Koji je krajnji rok za odjavu ispita",
+    "Do kada mogu odjaviti ispit",
+    "Koji je krajnji termin za odjaviti ispit"
+  ],
+  "Nije potrebno najaviti dolazak u ured za studente, možete doći svakim radnim danom od 12 do 14 sati na adresu Preradovićeva 1": [
+    "Je li potrebno najaviti dolazak u referadu",
+    "Moram li se najaviti prije dolaska u ured za studente",
+    "Moram li se najaviti prije nego idem u referadu"
+  ],
+  "Svakim radnim danom od 12 do 14 sati": [
+    "Koje je radno vrijeme ureda za studente",
+    "Kada radi referada",
+    "Kada mogu u referaedu",
+    "Od kad do kad radi referada"
+  ],
+  "Studentska referada nalazi se na adresi Preradovićeva 1, stara zgrada FET-a": [
+    "Gdje se nalazi referada",
+    "Gdje je ured za studente",
+    "Na kojoj adresi se nalazi ured za studente",
+    "Gdje se nalazi zgrada referade"
+  ],
+  "Prehrana za studente koji studiraju na pulskim visokoškolskim institucijama organizirana je u restoranu, pizzeriji i kužinici u neposrednoj blizini Studentskog doma, Preradovićeva 9A i Preradovićeva 9B.": [
+    "Gdje se nalazi studentski restoran",
+    "Gdje je menza",
+    "Gdje je restoran"
+  ],
+  "Dnevni menu možete pronaći na: https://www.scpu.hr/hr/prehrana/": [
+    "Što je danas na meni-u u restoranu",
+    "Što ima danas u menzi?",
+    "Što danas ima za ručak u restoranu",
+    "Što ima za jesti danas u menzi"
+  ],
+  "Restoran linija pon - pet ručak 11:30h do 15:30h, sub 12:00h do 15:00h,  večera 18:00h do 20:00h. Nedjeljom 12:00h do 14:00h.": [
+    "Koje je radno vrijeme studentske menze",
+    "Kada radi menza",
+    "Do kad radi restoran",
+    "Kako menza radi nedjeljom",
+    "Kako radi studentski restoran"
+  ],
+  "Potvrdu o studiranju možete izlistati preko e-građanina ili studomata: https://www.isvu.hr/studomat/": [
+    "Gdje mogu dobiti potvrdu o studiranju",
+    "Kako da podignem potvrdu o statusu studenta",
+    "Gdje da nađem potvrdu o studentu",
+    "Treba mi potvrdu o studiranju"
+  ],
+  "Popis svih studijskih programa nalazi se na: https://www.unipu.hr/obrazovanje/popis_svih_studijskih_programa": [
+    "Koje studijske programe mogu upisati na sveučilištu",
+    "Koji svi studijski programi postoje",
+    "Koje studijske programe nudi svučilište Jurja Dobrile u Puli?"
+  ],
+  "Završni rad prijavljujete tako što kontaktirate predmetnog profesora kod kojeg želite raditi rad. Nakon dogovora, i odobrene teme, zahtjev šaljete u ured za studente i obrazovne programe.": [
+    "Koja je procedura prijave završnog rada",
+    "Kako da prijavim završni rad",
+    "Na koji način da prijavim završni rad",
+    "Kako da prijavim temu iz završnog rada"
+  ],
+  "Teme završnih i diplomskih radova prošlih godina možete pronaći na stranicama vaše sastavnice fakulteta kao i na: https://repozitorij.unipu.hr ": [
+    "Gdje mogu pronaći teme završnih i diplomskih radova",
+    "Koje su teme završnih i diplomskih radova dostupne ove godine",
+    "Gdje mogu pronaći teme završnih radova od prošle godine",
+    "Kako da nađem teme diplomskih radova od prošlih godina"
+  ],
+  "Ovisno o vašoj sastavnici fakulteta i pravilima pisanja i mogućnostima izrade završnih/diplomskih radova, detalje potražite na web stranici sastavnice.": [
+    "Gdje mogu pronaći upute o pisanju završnog rada",
+    "Kako da napišem završni ili diplomski rad"
+  ],
+  "Idealno bi bilo do 4. mjeseca.": [
+    "Do kada moram prijaviti završni rad",
+    "Do kad moram prijaviti temu završnog rada",
+    "Koji je krajnji rok prijave teme završnog"
+  ],
+  "Nakon što Vam je mentor prihvatio finalnu inačicu završnog rada. U dogovoru s njim pokrećete proces obrane kontaktiranjem ureda za studente i obrazovne programe.": [
+    "Kako da pokrenem proces obrane završnog rada",
+    "Završio sam završni, gdje da ga predam",
+    "Kako da obranim završni rad"
+  ],
+  "Diplomski studij potrebno je odabrati na https://diplomski.studij.hr/ te je potom ostatak upisa potrebno obaviti putem aplikacije dostupne na: https://www.unipu.hr/upisi": [
+    "Kako da upišem diplomski studij",
+    "Kako da upišem diplomski",
+    "Kako mogu upisti diplomski studij"
+  ],
+  "Dozvoljeno je izaći 8 puta na ispit (4 u jednoj akademskoj godini) gdje je 8. izlazak pred komisijom.": [
+    "Koliko puta mogu izaći na ispit",
+    "Koliko puta mogu izaći na ispit iz nekog kolegija",
+    "Koji je maksimalni broj izlazaka na ispit"
+  ]
+}

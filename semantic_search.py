@@ -6,10 +6,8 @@ from decouple import config
 from datasets import load_dataset
 from sentence_transformers.util import semantic_search
 
-from topic_classifier import getStrongestTopics
-
 #Load data from JSON
-f = open("enquiriesTEST.json", 'r', encoding="utf8")
+f = open("enquiries2.json", 'r', encoding="utf8")
 data = json.load(f)
 
 #Sentence Transformers model - an existing pre-trained model for creating the embeddings.
@@ -35,7 +33,7 @@ embeddings = pd.DataFrame(model_output)
 embeddings.to_csv("embeddings/enquiries.csv", index=False)
 
 
-def getDatasetEmbeddings():
+async def getDatasetEmbeddings():
     data_embeddings = load_dataset('lukablaskovic/student-enquiries-cro')
     dataset_embeddings = torch.from_numpy(data_embeddings["train"].to_pandas().to_numpy()).to(torch.float)
 
